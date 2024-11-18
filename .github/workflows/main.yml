@@ -1,0 +1,3 @@
+- uses: paulhatch/semantic-version@latest
+  with:
+    version_from_branch: true
